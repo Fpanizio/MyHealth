@@ -35,6 +35,7 @@ const styles = StyleSheet.create({
   textInput: {
     fontSize: 20,
     marginRight: 5,
+    color: 'white',
   },
 });
 
